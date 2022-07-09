@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'sim-engagement'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19B9A91DC2ED4118A410C711DCCF323E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AD1B5C665DE4C6AB572B116064E720F }}
           package: .
